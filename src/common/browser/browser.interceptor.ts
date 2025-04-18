@@ -7,7 +7,7 @@ export class BrowserInterceptor implements NestInterceptor {
     const req = context.switchToHttp().getRequest()
     const userAgent = req.header('user-agent')
     console.log(`Browser: ${userAgent}`)
-    const browserAgent = userAgent || 'unknown'
+    const browserAgent = userAgent || 'Unknown'
     req.headers.browser = browserAgent
     return next.handle();
   }
