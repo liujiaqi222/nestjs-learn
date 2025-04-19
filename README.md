@@ -4,7 +4,7 @@
 api链接：https://random-emoji-cyan.vercel.app/
 
 
-![image](https://github.com/user-attachments/assets/77744a05-51de-4179-b0b9-f3ef64672f1a)
+![image](https://github.com/user-attachments/assets/6d7af3bc-0a0c-4b96-8b0d-e39d7d84032f)
 
 请求方式： GET
 
